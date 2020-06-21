@@ -15,5 +15,6 @@ Navigation Bar: Home  -- Search -- Post cause -- Eventlist -- Profile
 Onboarding motivational messages/facts ---> Register/Signin ----> (Home + navigation bar)
 
 
-### IMP: 
+### Our design is to be inspired from the [Impact app](https://play.google.com/store/apps/details?id=com.sharesmile.share) 
 #### This is a basic text based app-flow! Please add and keep this repository updated.
+
